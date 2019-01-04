@@ -1,0 +1,47 @@
+Threads:
+1.What is threadlocal
+2.What is executor framework and how to use it.
+3.What is meant by thread pool and how do we create thread pool.
+4.write a program to create two threads in which first thread should print the even numbers till 20 and second thread should print the odd numbers till 20.The output should be 1,2,3,4,5,6....20.
+5.Synchronization blocks.
+6.What is difference between Completion handler and submit method in executor service?
+7.Extends Thread or implements Runnable, which better and why?
+8.Write a sample program synchronized block and synchronized method?
+9.What is difference between synchronized block and synchronized method?
+10.What is synchronization? how many ways can we achieve it?
+11.Write a sample program interthread communication?
+12.wait(),notify and notifyAll() methods are present in which class?
+13.What is Interthread communication,how can you achieve it?
+14.Thread life cycle methods?
+15.What join() method will do, write a sample program ?
+16.What is deadlock, write a sample program using two threads?
+17.Threads in Java
+18.Ways of creating a thread
+19.what is synchronization
+20.Questions on Threads (extends thread and implements Runnable)
+21.How to acquire class level synchronization
+22.How synchronization can be used
+23.Wait and Sleep method,
+24.Notify method,
+25.Why wait() and notify() method is declared in Object class not in Thread
+26.Executer framework, thread lock types
+27.create Runnable object using anonymous class
+28.Thread Synchronization with scenario.
+
+Annotations:
+1.Annotations in java
+2.Retention policy of annotation.
+
+Serialisation
+1.Serialization rules and importance of serialVersionUID
+2.what is the importance of serialversionId.
+3.what is meant by serialization.Why do we need that.
+4.what is the use of transient keyword.
+5.what is serialization and de-serialization
+6.What is use of static in Serlization and deSerlization?
+7.how to serliztion and deserlize the transient variables? Is there possibility?
+8.What is Serialization and deSerlization ?
+9.Object Serialization / De-serialization
+10.
+
+
